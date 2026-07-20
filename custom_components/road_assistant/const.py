@@ -1,0 +1,5 @@
+DOMAIN = "road_assistant"
+CONF_COUNTRY = "country"
+CONF_LANGUAGE = "language"
+DEFAULT_COUNTRY = "Poland"
+DEFAULT_LANGUAGE = "pl"
