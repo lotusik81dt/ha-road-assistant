@@ -1,7 +1,8 @@
 {
   "domain": "road_assistant",
   "name": "HA Road Assistant",
-  "documentation": "https://github.com/twoj_login/ha-road-assistant",
+  "documentation": "https://github.com/lotusik81dt/ha-road-assistant",
+  "issue_tracker": "https://github.com/lotusik81dt/ha-road-assistant/issues",
   "requirements": [],
   "codeowners": ["@lotusik81dt"],
   "config_flow": true,
